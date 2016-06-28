@@ -24,27 +24,27 @@
     </Inf>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\src\ArmaditoGuard.c">
+    <ClCompile Include="..\..\..\..\src\ArmaditoGuard.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\src\callbacks.c">
+    <ClCompile Include="..\..\..\..\src\callbacks.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\src\communication.c">
+    <ClCompile Include="..\..\..\..\src\communication.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\src\ArmaditoGuard.h">
+    <ClInclude Include="..\..\..\..\src\ArmaditoGuard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\src\callbacks.h">
+    <ClInclude Include="..\..\..\..\src\callbacks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\src\communication.h">
+    <ClInclude Include="..\..\..\..\src\communication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\src\structs.h">
+    <ClInclude Include="..\..\..\..\src\structs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
